@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/bash-3.2%2B-555a66?style=flat-square" alt="Bash 3.2+">
 </p>
 
+> **Note:** This is a personal learning fork of [sethdford/shipwright](https://github.com/sethdford/shipwright), used for study and experimentation. For the maintained project, issues and releases, use the upstream repository.
+
 ---
 
 ## Table of Contents
